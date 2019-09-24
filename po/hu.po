@@ -21,44 +21,44 @@ msgstr ""
 #: data/com.github.alainm23.planner.desktop.in:4
 #: data/com.github.alainm23.planner.appdata.xml.in:7
 msgid "Planner"
-msgstr ""
+msgstr "Tervező"
 
 #: src/Utils.vala:347
 msgid "Clouds"
-msgstr ""
+msgstr "Felhők"
 
 #: src/Utils.vala:348 src/Widgets/Popovers/WhenPopover.vala:59
 #: src/Widgets/Popovers/DeadlinePopover.vala:43
 msgid "Clear"
-msgstr ""
+msgstr "Tiszta"
 
 #: src/Utils.vala:349
 msgid "Atmosphere"
-msgstr ""
+msgstr "Atmoszféra"
 
 #: src/Utils.vala:350 src/Utils.vala:394
 msgid "Snow"
-msgstr ""
+msgstr "Hó"
 
 #: src/Utils.vala:351
 msgid "Rain"
-msgstr ""
+msgstr "Eső"
 
 #: src/Utils.vala:352 src/Utils.vala:373
 msgid "Drizzle"
-msgstr ""
+msgstr "Szemerkélő eső"
 
 #: src/Utils.vala:353 src/Utils.vala:365
 msgid "Thunderstorm"
-msgstr ""
+msgstr "Égiháború"
 
 #: src/Utils.vala:361
 msgid "Thunderstorm with light rain"
-msgstr ""
+msgstr "Vihar könnyű esővel"
 
 #: src/Utils.vala:362
 msgid "Thunderstorm with rain"
-msgstr ""
+msgstr "Zivatar"
 
 #: src/Utils.vala:363
 msgid "Thunderstorm with heavy rain"
@@ -66,35 +66,35 @@ msgstr ""
 
 #: src/Utils.vala:364
 msgid "Light thunderstorm"
-msgstr ""
+msgstr "Könnyű vihar"
 
 #: src/Utils.vala:366
 msgid "Heavy thunderstorm"
-msgstr ""
+msgstr "Erős vihar"
 
 #: src/Utils.vala:367
 msgid "Ragged thunderstorm"
-msgstr ""
+msgstr "Szakadozó vihar"
 
 #: src/Utils.vala:368
 msgid "Thunderstorm with light drizzle"
-msgstr ""
+msgstr "Vihar, könnyű szemerkélő esővel"
 
 #: src/Utils.vala:369
 msgid "Thunderstorm with drizzle"
-msgstr ""
+msgstr "Vihar, szemerkélő esővel"
 
 #: src/Utils.vala:370
 msgid "Thunderstorm with heavy drizzle"
-msgstr ""
+msgstr "Zivatar, szakadozó"
 
 #: src/Utils.vala:372
 msgid "Light intensity drizzle"
-msgstr ""
+msgstr "Gyenge intenzitású szemerkélő eső"
 
 #: src/Utils.vala:374
 msgid "Heavy intensity drizzle"
-msgstr ""
+msgstr "Erős intenzitású szemerkélő eső"
 
 #: src/Utils.vala:375
 msgid "Light intensity drizzle rain"
